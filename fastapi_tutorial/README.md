@@ -134,4 +134,10 @@ szjung@esp:/workspace/newworld/fastapi_tutorial$ source venv/bin/activate
 /workspace/newworld/fastapi_tutorial/venv/bin/python
 (venv) szjung@esp:/workspace/newworld/fastapi_tutorial$   pip install fastapi
 ```
-- 가상환경 접속 
+- uvicorn 이라는 서버가 필요함
+```python
+pip install uvicorn
+```
+
+
+
